@@ -1,4 +1,4 @@
-# Aziz.py
+# Aziz
 A simple [tkinter](https://docs.python.org/3/library/tk.html) [GUI](https://en.wikipedia.org/wiki/Graphical_user_interface) for [xbacklight](https://linux.die.net/man/1/xbacklight) command
 
 ---
