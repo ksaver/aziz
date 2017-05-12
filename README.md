@@ -17,3 +17,8 @@ The program main interface uses a ["scale"](http://effbot.org/tkinterbook/scale.
 * [Tkinter:](https://en.wikipedia.org/wiki/Tkinter)
 * [xbacklight](https://www.x.org/archive/X11R7.5/doc/man/man1/xbacklight.1.html)
 * [The Fifht Element (1997)](http://www.imdb.com/title/tt0119116/)
+
+---
+
+The program is delivered "Aziz" (pun intended), with _no warranty at all_.
+
