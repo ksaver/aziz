@@ -3,7 +3,7 @@ A simple [tkinter](https://docs.python.org/3/library/tk.html) [GUI](https://en.w
 
 ---
 
-The name Aziz makes reference to [The Fift Element](http://www.imdb.com/title/tt0119116/) character.
+The program was named Aziz after the [_"The Fift Element"_](http://www.imdb.com/title/tt0119116/) character.
 
 [![Aziz light!!](http://img.youtube.com/vi/mvwd13F_1Gs/0.jpg)](http://www.youtube.com/watch?v=mvwd13F_1Gs)
 
