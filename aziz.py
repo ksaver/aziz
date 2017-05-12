@@ -46,11 +46,11 @@ scale = Scale(middle_frame, from_=0, to=100,
 scale.set(current_bl)
 scale.grid(row=1, column=0, padx=4, pady=4, columnspan=2)
 
-reset_button = Button(bottom_frame, text="Reset", command=reset_backlight)
-reset_button.grid(row=1, column=1)
+quit_button = Button(bottom_frame, text="OK", command=window.destroy)
+quit_button.grid(row=1, column=1)
 
-quit_button = Button(bottom_frame, text="Quit", command=window.destroy)
-quit_button.grid(row=1, column=2)
+reset_button = Button(bottom_frame, text="Cancel", command=reset_backlight)
+reset_button.grid(row=1, column=2)
 
 top_frame.pack(padx=4, pady=4, ipadx=4, ipady=4)
 middle_frame.pack(padx=4, pady=4, ipadx=4, ipady=4)
